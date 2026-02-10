@@ -38,7 +38,7 @@
     "decimal.js": "^10.4.3",
     "i18next": "^23.11.2",
     "interactjs": "^1.10.27",
-    "jquery": "^3.7.1",
+    "jquery": "^4.0.0",
     "jquery-i18next": "^1.2.1",
     "less": "^4.2.0",
     "less-loader": "^12.2.0",
